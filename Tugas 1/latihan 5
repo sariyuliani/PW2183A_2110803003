@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Latihan PRE</title>
+</head>
+<body>
+<pre>
+Tampilan ini sma dengan tampilan di teks editor.
+Kode program :
+For I = 1 to 10
+For J = 1 to 5
+A(I,J)=I*J
+Next
+Next
+</pre>
+</body>
+</html>
