@@ -1,0 +1,28 @@
+body{
+    font-family: arial;
+    background-color: darkolivegreen;
+    background-image: url(pepe.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+#judul{
+    font-size: 50px;
+    color: yellow;
+}
+
+    div p{
+        font-weight: bold;
+        font-style: oblique;
+        color: violet;
+    }
+
+.instagram{
+    color: tomato;
+    text-decoration: underline;
+}
+
+p.cetak-miring{
+    letter-spacing: 4px;
+    color: blue;
+    font-weight: bold;
+}
